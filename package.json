@@ -8,10 +8,6 @@
     "Tara Manicsic",
     "Thom Krupa"
   ],
-  "homepage": "https://github.com/netlify-templates/nextjs-blog-theme",
-  "bugs": {
-    "url": "https://github.com/netlify-templates/nextjs-blog-theme/issues"
-  },
   "scripts": {
     "dev": "next",
     "dev:watch": "next-remote-watch ./posts",
